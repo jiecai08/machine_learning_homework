@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15f4c0c4-4ea1-44c4-a29d-98aeff43462d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/knn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +211,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549949080652</updated>
       <workItem from="1599720217095" duration="2735000" />
-      <workItem from="1663037538683" duration="8464000" />
+      <workItem from="1663037538683" duration="10645000" />
     </task>
     <servers />
   </component>
